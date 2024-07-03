@@ -1,3 +1,3 @@
 # AWS Projects 
-![AWS](https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg "Amazon Web Services")
+![AWS](https://saviynt.com/hs-fs/hubfs/aws.png?width=220&height=240&name=aws.png "Amazon Web Services")
 ### Documenting the behemoth that is AWS

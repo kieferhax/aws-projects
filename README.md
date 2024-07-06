@@ -1,3 +1,3 @@
-# AWS Projects 
+# Amazon Web Services (AWS) ☁️ 
 ![AWS](https://saviynt.com/hs-fs/hubfs/aws.png?width=220&height=240&name=aws.png "Amazon Web Services")
-### The Road To: Developer Associate
+#### Documenting my explorations of [AWS](https://www.aws.amazon.com/) 
